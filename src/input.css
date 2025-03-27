@@ -1,2 +1,5 @@
 @import "tailwindcss";
+@theme {
+    --color-mint-500: oklch(0.72 0.11 178);
+  }
 /* npx @tailwindcss/cli -i ./src/input.css -o ./dist/style.css --watch */
